@@ -1,0 +1,1 @@
+C:\Users\Biankovsky\Documents\Android Apps\ToDoList\ToDoList\ToDoList.csproj;x64
